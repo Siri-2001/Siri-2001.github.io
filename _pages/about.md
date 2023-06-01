@@ -43,8 +43,19 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduates of Liaoning Province in 2023" or "Excellent Graduates of Liaoning Province in 2023.
+- Top Ten Undergraduate Students of Northeastern University awarded the 'May Fourth Medal' in 2023.
+- Pioneer Figure of the School of Computer Science and Engineering, Northeastern University in 2021.
+- Outstanding Student of Northeastern University.
+- The 7th Most Influential Graduates of Northeastern University.
+- The 7th China International Internet+ College Students' Innovation and Entrepreneurship Competition,Gold Award in the Higher Education Main Track, Most Commercially Valuable Award (Technology Core).
+- The 15th Liaoning Province College Students' Extra-curricular Academic Science and Technology Works Competition (Challenge Cup),Special Prize.
+- China Undergraduate Mathematical Contest in Modeling" or "China College Student Mathematical Modeling Competition,First Prize in the Liaoning Province Division.
+- Liaoning Province Mathematical Modeling Contest" or "Liaoning Province Mathematical Modeling Competition,First Prize.
+- The 14th of Northeastern University Student Innovation and Entrepreneurship Projects，National-level Excellent, Most Popular University Student Project.
+- The 15th of Northeastern University Student Innovation and Entrepreneurship Projects，National-level Fine.
+- The 4th Zhongguancun Talent Entrepreneurship Competition,First Prize in the Enterprise Track.
+- 2020 Innovation and Entrepreneurship Competition at Northeastern University,First Price.
 
 # 📖 Educations
 - *2023.09 - now*,School of Electronic Information and Engineering, Tongji University..
@@ -55,4 +66,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.04 - 2022.08*, Zhang Yue Laboratory, Westlake University,Intern.
+- *2022.05 - 2022.08*, Shanghai SoulCode Technology Co., Ltd.,Document Intelligence Algorithm Engineer.
+- *2022.05 - 2022.08*, Peking University School of Information Science and Technology Artificial Intelligence Innovation Center,Industrial Innovation Intern.
