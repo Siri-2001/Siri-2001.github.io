@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student studying at Tongji University. My research interests include large language models, multimodality, OpenDominQA, sign language translation, and I am very eager to engage in discussions with you.
+I am currently a graduate student studying at Northeastern University. My research interests include large language models, multimodality, OpenDominQA, sign language translation, and I am very eager to engage in discussions with you.
 
 
 # 🔥 News
