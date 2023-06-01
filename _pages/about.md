@@ -61,7 +61,7 @@ I am currently a graduate student studying at Northeastern University. My resear
 
 # 💻 Internships
 - *2023.04 - 2022.08*, Zhang Yue Laboratory, Westlake University,Intern.
-- *2022.05 - 2022.08*, Shanghai SoulCode Technology Co., Ltd.,Document Intelligence Algorithm Engineer.
+- *2022.10 - 2023.02*, Shanghai SoulCode Technology Co., Ltd.,Document Intelligence Algorithm Engineer.
 - *2022.05 - 2022.08*, Peking University School of Information Science and Technology Artificial Intelligence Innovation Center,Industrial Innovation Intern.
 
 # 💬 Related interview
