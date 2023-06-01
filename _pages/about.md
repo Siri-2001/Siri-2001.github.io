@@ -48,8 +48,8 @@ I am currently a graduate student studying at Northeastern University. My resear
 - The 7th Most Influential Graduates of Northeastern University.
 - The 7th China International Internet+ College Students' Innovation and Entrepreneurship Competition,Gold Award in the Higher Education Main Track, Most Commercially Valuable Award (Technology Core).
 - The 15th Liaoning Province College Students' Extra-curricular Academic Science and Technology Works Competition (Challenge Cup),Special Prize.
-- China Undergraduate Mathematical Contest in Modeling" or "China College Student Mathematical Modeling Competition,First Prize in the Liaoning Province Division.
-- Liaoning Province Mathematical Modeling Contest" or "Liaoning Province Mathematical Modeling Competition,First Prize.
+- China Undergraduate Mathematical Contest in Modeling,First Prize in the Liaoning Province Division.
+- Liaoning Province Mathematical Modeling Contest,First Prize.
 - The 14th of Northeastern University Student Innovation and Entrepreneurship Projects，National-level Excellent, Most Popular University Student Project.
 - The 15th of Northeastern University Student Innovation and Entrepreneurship Projects，National-level Fine.
 - The 4th Zhongguancun Talent Entrepreneurship Competition,First Prize in the Enterprise Track.
